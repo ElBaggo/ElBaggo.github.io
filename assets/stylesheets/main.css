@@ -33,6 +33,10 @@ ul {
 	padding-top: 20px;
 }
 
+.navbar-brand h1:hover {
+	color: #cd950c;
+}
+
 .hero {
 	background: url(../images/hero2.jpg);
   background-repeat: no-repeat;
@@ -101,4 +105,9 @@ ul {
 
 .carousel-caption p {
 	font-size: 1.2em;
+}
+
+.price {
+	color: red;
+	font-size: 1.4em;
 }
